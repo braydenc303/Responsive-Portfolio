@@ -159,3 +159,30 @@ footer {
     border-top-style: solid;
     border-top-width: 7px;
 }
+
+
+
+
+
+ @media screen and (max-width: 960px) {
+ h1 {
+   background-color: blue; 
+   margin-left: 0px; 
+ }
+
+ .navbar {
+     margin-right: 0px;
+ }
+}
+
+ @media screen and (max-width: 768px) {
+    
+} 
+
+@media screen and (max-width: 640px) {
+    h1 {
+        font-size:60px;
+        background-color: yellow;
+    }
+} 
+
